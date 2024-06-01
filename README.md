@@ -57,3 +57,18 @@
 <!--[Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)-->
+
+
+
+## 📊 Stats
+
+<div align="center">
+
+<!--  # 📊 GitHub Stats: -->
+![](https://github-readme-stats.vercel.app/api?username=thekaveez&show_icons=true&count_private=true&theme=gotham&hide_border=true) <br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekaveez&theme=gotham&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekaveez&layout=compact&theme=gotham&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats-eight-eta.vercel.app?user=thekaveez&theme=gotham&hide_border=true) <br/>
+ <br/>
+
+
+
+</div>
