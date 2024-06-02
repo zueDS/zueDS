@@ -84,3 +84,28 @@
 
 </div>
 
+
+
+<!-- 
+[WhatsApp]: https://wa.me/0763408873
+
+[Twitter]: https://twitter.com/Mindula2000
+
+[Youtube]: https://www.youtube.com/Mindula-dilthushan
+
+[Tumblr]:https://www.tumblr.com/blog/minduladilthushan23
+
+[Reddit]:https://www.reddit.com/user/Loose_Essay9560
+
+[Dribble]:https://dribbble.com/minduladilthushan
+
+[Dev_Community]:https://dev.to/minduladilthushan
+
+[Medium]:https://medium.com/@minduladilthushan
+
+-->
+<div align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,0:55EFC4&height=80&section=footer)
+
+</div>
