@@ -85,9 +85,8 @@
 
 </div>
 
-<div>
   [![An image of @zueds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zueds)](https://holopin.io/@zueds)
-</div>
+
 
 
 <!-- 
